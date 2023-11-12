@@ -1,0 +1,63 @@
+#kapsul {
+
+        background-image: url("background.jpg");
+
+}
+
+ #Anatema {
+
+   background-image: url("anatema.jpg");
+   /* background-color: rgb(203, 203, 203);*/
+  
+    height: 650px ; 
+  
+}
+
+ #logo
+{
+   
+    height: 100 px ;
+    
+
+}
+
+
+
+ul {
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+}
+
+     li {
+        float: left;
+        font-size: x-large;
+        color: aliceblue;
+        font-style: oblique;
+    }
+    
+   a li  {
+        display: block;
+    
+        padding:10px 30px;
+    
+        
+    }
+
+#icerik
+{
+
+   
+    width: 50 px;
+    height:550 px ;
+}
+
+#yaz {
+    font-size: x-large;
+    color: aliceblue;
+    font-style: oblique;
+}
